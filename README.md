@@ -46,6 +46,35 @@ Exploratory Data Analysis (EDA) performed on the **Adult Income Dataset** to und
 
   * `<=50K → 0`
   * `>50K → 1`
+# 🔄 Project Workflow
+
+The overall workflow of the project is:
+
+```text
+Dataset
+   ↓
+Load Dataset
+   ↓
+Understand Dataset
+   ↓
+Check Missing Values
+   ↓
+Clean Missing Values
+   ↓
+Data Preprocessing
+   ↓
+Descriptive Statistics
+   ↓
+Exploratory Data Analysis
+   ↓
+Data Visualization
+   ↓
+Income Analysis
+   ↓
+Random Sampling
+   ↓
+Insights
+```
 
 ## 📁 Project Structure
 
