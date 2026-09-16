@@ -90,6 +90,24 @@ Adult-Income-EDA/
 
 **Python | Data Cleaning | Pandas | Data Visualization | Exploratory Data Analysis | Statistical Analysis**
 
-## 👩‍💻 Author
+# 📌 Project Conclusion
+
+The Adult Income EDA project demonstrates how Python can be used to clean, analyze, and visualize a real-world dataset.
+
+The analysis begins with understanding the dataset and identifying missing values. The missing-value representation `?` is converted to `NaN`, followed by missing-value analysis.
+
+The project then analyzes important variables such as age, workclass, gender, and income. Statistical summaries and visualizations such as histograms, heatmaps, and box plots are used to understand the structure and relationships within the data.
+
+The project provides a strong foundation for further **data analysis, visualization, feature engineering, and machine learning** using the Adult Income dataset.
+
+---
+
+# 👩‍💻 Author
 
 **Harshitha**
+
+### Project
+
+**Adult Income Data Analysis – Exploratory Data Analysis**
+
+---
